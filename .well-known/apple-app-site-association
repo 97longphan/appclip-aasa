@@ -3,18 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "PYNR868MD4.com.dev.longphan.appclip",
+        "appID": "PYNR868MD4.longphan.dev.om.appclip.main",
         "paths": [ "/clip/*" ]
       }
     ]
   },
   "appclips": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "PYNR868MD4.com.dev.longphan.appclip.target",
-        "paths": [ "/clip/*" ]
-      }
+    "apps": [
+      "PYNR868MD4.longphan.dev.om.appclip.main.Clip"
     ]
   }
 }
