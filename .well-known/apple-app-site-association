@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PYNR868MD4.com.dev.longphan.appclip",
+        "paths": [ "/clip/*" ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PYNR868MD4.com.dev.longphan.appclip.target",
+        "paths": [ "/clip/*" ]
+      }
+    ]
+  }
+}
