@@ -1,12 +1,5 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.app_nfc",
-      "sha256_cert_fingerprints": [
-        "44:95:2A:FA:3F:31:10:A3:C6:E8:64:95:1C:E6:4E:F6:C4:55:0C:FE:00:7D:49:E9:DB:FC:D3:FC:BD:69:11:C9"
-      ]
-    }
-  }
-]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.app_nfc",
+               "sha256_cert_fingerprints": ["44:95:2A:FA:3F:31:10:A3:C6:E8:64:95:1C:E6:4E:F6:C4:55:0C:FE:00:7D:49:E9:DB:FC:D3:FC:BD:69:11:C9"] }
+}]
